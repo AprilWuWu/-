@@ -23,6 +23,7 @@
  ┣ 📂python基礎
  ┃ ┣ 📜tabelog爬蟲.ipynb
  ┃ ┗ 📜爬PPT表特版.ipynb
+ ┣ 📂生活智慧王[.net與HTML]
  ┣ 📜LICENSE
  ┗ 📜README.md
 ```

@@ -20,6 +20,9 @@
  ┃ ┣ 📜sentiment(詞向量，情緒分析).ipynb [IMDB分類--詞向量]
  ┃ ┣ 📜transfer(遷移學習).ipynb [遷移學習]
  ┃ ┗ 📜人臉辨識.ipynb [face_recognition套件實作]
+ ┣ 📂python基礎
+ ┃ ┣ 📜tabelog爬蟲.ipynb
+ ┃ ┗ 📜爬PPT表特版.ipynb
  ┣ 📜LICENSE
  ┗ 📜README.md
 ```

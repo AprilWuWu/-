@@ -1,5 +1,6 @@
 # 專案介紹
 
+```
 📦AI-Portfolio
  ┣ 📂機器學習
  ┃ ┣ 📜boston_regression(decision_tree).ipynb [波士頓房價迴歸分析--決策樹演算法]
@@ -21,6 +22,7 @@
  ┃ ┗ 📜人臉辨識.ipynb [face_recognition套件實作]
  ┣ 📜LICENSE
  ┗ 📜README.md
+```
 
 ---
 

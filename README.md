@@ -667,4 +667,7 @@ GUI(圖形化介面)：tkinter ,PyQt
     print("最後加的是" ,times) 
     # 最後加的是 10
     
-    ```  
+    
+ # 爬蟲_Google Doodle 的圖片
+ * repl:
+  https://repl.it/@AprilWuWu/1029#main.py
